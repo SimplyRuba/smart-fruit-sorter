@@ -53,5 +53,5 @@ The system uses **Computer Vision** to analyze incoming fruit on a moving convey
 
 ---
 <div align="center">
-  <i>Built with ❤️ and a lot of coffee by <a href="https://github.com/SimplyRuba">Ruba Aldaghamin</a>.</i>
+  <i>Built with ❤️ and a lot of Iced Tea by <a href="https://github.com/SimplyRuba">Ruba Aldaghamin</a>.</i>
 </div>
